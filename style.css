@@ -1,0 +1,11 @@
+body {
+    background: rebeccapurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+div {
+    background: green;
+    padding: 10px;
+}
